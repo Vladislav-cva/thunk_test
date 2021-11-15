@@ -1,0 +1,15 @@
+.button-wrapper{
+    min-width: 7rem;
+    height: 25px;
+    border:1px solid rgb(223, 189, 255);
+    background: none;
+}
+
+.icon-wrapp{
+    border:1px solid rgb(223, 189, 255);
+    background: none;
+}
+
+button{
+    margin-right: 3px;
+}
